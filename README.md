@@ -1,4 +1,4 @@
-# cross-modal-papers
+# cross-modal papers
 
 2020
 
